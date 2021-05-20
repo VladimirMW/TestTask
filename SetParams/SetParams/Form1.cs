@@ -25,7 +25,7 @@ namespace SetParams
 
         public static void InitializeServiceParams()
         {
-            string sFilePath = $"{Environment.CurrentDirectory}//Settings.xml";
+            string sFilePath = "C:\\\\Temp\\Settings.xml";
             if(File.Exists(sFilePath))
             {
                 // получаем поток, и десериализуем обьект
@@ -48,7 +48,7 @@ namespace SetParams
                 //Для Console Сервиса
                 _servises.ConsoleServiceParams.ServiceType = 2;
                 _servises.ConsoleServiceParams.ServiceName = "MyConsoleservice";
-                _servises.ConsoleServiceParams.ServicePath = $"{Environment.CurrentDirectory}//TestFile.mw";
+                _servises.ConsoleServiceParams.ServicePath = "C:\\\\Temp\\TestFile.mw";
                 _servises.ConsoleServiceParams.AttemptsQuantity = 3;
                 _servises.ConsoleServiceParams.CheckInterval = 1;
                 _servises.ConsoleServiceParams.CorrectState = 2;
@@ -152,7 +152,7 @@ namespace SetParams
 
         private void FormServiceParams_FormClosed(object sender, FormClosedEventArgs e)
         {
-            string sFilePath = $"{Environment.CurrentDirectory}//Settings.xml";
+            string sFilePath = "C:\\\\Temp\\Settings.xml";
             // передаем в конструктор тип класса
             XmlSerializer xmlFormater = new XmlSerializer(typeof(Services));
             // получаем поток, и сериализуем обьект
