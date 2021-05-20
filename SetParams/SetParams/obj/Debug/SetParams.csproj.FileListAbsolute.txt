@@ -1,0 +1,12 @@
+C:\MWDocs\C#\Projects\TestTask\SetParams\SetParams\bin\Debug\SetParams.exe.config
+C:\MWDocs\C#\Projects\TestTask\SetParams\SetParams\bin\Debug\SetParams.exe
+C:\MWDocs\C#\Projects\TestTask\SetParams\SetParams\bin\Debug\SetParams.pdb
+C:\MWDocs\C#\Projects\TestTask\SetParams\SetParams\obj\Debug\SetParams.csprojAssemblyReference.cache
+C:\MWDocs\C#\Projects\TestTask\SetParams\SetParams\obj\Debug\SetParams.Properties.Resources.resources
+C:\MWDocs\C#\Projects\TestTask\SetParams\SetParams\obj\Debug\SetParams.csproj.GenerateResource.cache
+C:\MWDocs\C#\Projects\TestTask\SetParams\SetParams\obj\Debug\SetParams.csproj.CoreCompileInputs.cache
+C:\MWDocs\C#\Projects\TestTask\SetParams\SetParams\obj\Debug\SetParams.exe
+C:\MWDocs\C#\Projects\TestTask\SetParams\SetParams\obj\Debug\SetParams.pdb
+C:\MWDocs\C#\Projects\TestTask\SetParams\SetParams\obj\Debug\SetParams.FormServiceParams.resources
+C:\MWDocs\C#\Projects\TestTask\SetParams\SetParams\bin\Debug\Newtonsoft.Json.dll
+C:\MWDocs\C#\Projects\TestTask\SetParams\SetParams\obj\Debug\SetParams.csproj.CopyComplete

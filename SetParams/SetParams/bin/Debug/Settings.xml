@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Services xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WEBserviceParams>
+    <ServiceType>1</ServiceType>
+    <ServiceName>MyWEBservice</ServiceName>
+    <ServicePath>https://www.google.com/</ServicePath>
+    <AttemptsQuantity>5</AttemptsQuantity>
+    <CheckInterval>1</CheckInterval>
+    <CorrectState>200</CorrectState>
+  </WEBserviceParams>
+  <ConsoleServiceParams>
+    <ServiceType>2</ServiceType>
+    <ServiceName>MyConsoleservice</ServiceName>
+    <ServicePath>C:\MWDocs\C#\Projects\TestTask\SetParams\SetParams\bin\Debug\\TestFile.mw</ServicePath>
+    <AttemptsQuantity>3</AttemptsQuantity>
+    <CheckInterval>1</CheckInterval>
+    <CorrectState>2</CorrectState>
+  </ConsoleServiceParams>
+</Services>
