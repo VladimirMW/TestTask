@@ -135,10 +135,15 @@ namespace MWServiceCheck
             int checkResult = (int) WebClient.GetAsync(_servises.WEBserviceParams.ServicePath).Result.StatusCode;
 
             if (checkResult != _servises.WEBserviceParams.CorrectState)
+            {
                 WebServiceFail++;
+                eventLog1.WriteEntry($"{checkResult} != {_servises.WEBserviceParams.CorrectState}, {WebServiceFail} раз", EventLogEntryType.Information, eventId++);
+            }    
+                
 
             if(WebServiceFail >= _servises.WEBserviceParams.AttemptsQuantity)
             {
+                eventLog1.WriteEntry($"Перезапуск Web сервиса", EventLogEntryType.Information, eventId++);
                 WebServiceFail = 0;
                 RestartWebService();
             }                
@@ -153,11 +158,16 @@ namespace MWServiceCheck
             TimeSpan timeDiff = DateTime.Now.Subtract(lastModified);
             int dTimeDiff = int.Parse(timeDiff.ToString("mm"));
 
-            if (dTimeDiff > _servises.ConsoleServiceParams.CorrectState)
+            if (dTimeDiff >= _servises.ConsoleServiceParams.CorrectState)
+            {
                 ConsoleServiceFail++;
+                eventLog1.WriteEntry($"{dTimeDiff} >= {_servises.ConsoleServiceParams.CorrectState}, {ConsoleServiceFail} раз", EventLogEntryType.Information, eventId++);
+            }    
+                
 
             if (ConsoleServiceFail >= _servises.ConsoleServiceParams.AttemptsQuantity)
             {
+                eventLog1.WriteEntry($"Перезапуск Console сервиса", EventLogEntryType.Information, eventId++);
                 ConsoleServiceFail = 0;
                 RestartConsoleService();
             }
