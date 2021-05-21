@@ -34,9 +34,10 @@ namespace MWServiceCheck
             }
             eventLog1.Source = "SourceMW";
             eventLog1.Log = "MWServiceCheckLog";
+            InitializeServiceParams();
         }
         
-        public static void InitializeServiceParams()
+        public void InitializeServiceParams()
         {
             string sFilePath = "C:\\\\Temp\\Settings.xml";
             if (File.Exists(sFilePath))
@@ -66,6 +67,10 @@ namespace MWServiceCheck
                 _servises.ConsoleServiceParams.CheckInterval = 1;
                 _servises.ConsoleServiceParams.CorrectState = 2;
             }
+            string serviceParam = $"{_servises.WEBserviceParams.ServiceName}; {_servises.WEBserviceParams.CheckInterval}";
+            eventLog1.WriteEntry(serviceParam);
+            serviceParam = $"{_servises.ConsoleServiceParams.ServiceName}; {_servises.ConsoleServiceParams.CheckInterval}";
+            eventLog1.WriteEntry(serviceParam);
         }
 
         //Перезапуск Web сервиса
@@ -100,7 +105,7 @@ namespace MWServiceCheck
             timerUpdate.Elapsed += new ElapsedEventHandler(this.OnUpdateParams);
             timerUpdate.Start();
             //Инициализируем таймера запуска процессов проверки
-            eventLog1.WriteEntry("Сервис запускает процессы проверки.");
+            eventLog1.WriteEntry("Запускает процесса проверки Web службы.");
             //Запуск процесса проверки Web службы
             Timer timerWebServiceControll = new Timer(); //Таймер проверки Web сервиса
             timerWebServiceControll.Interval = _servises.WEBserviceParams.CheckInterval * 60000; //1000 = 1 seconds 1 минута 60000
@@ -108,6 +113,7 @@ namespace MWServiceCheck
             timerWebServiceControll.Start();
 
             //Запуск процесса проверки Console службы
+            eventLog1.WriteEntry("Запускает процесса проверки Console службы.");
             Timer timerConsoleServiceControll = new Timer(); //Таймер проверки Web сервиса
             timerWebServiceControll.Interval = _servises.ConsoleServiceParams.CheckInterval * 60000; //1000 = 1 seconds 1 минута 60000
             timerWebServiceControll.Elapsed += new ElapsedEventHandler(this.OnConsoleServiceControll);
@@ -142,7 +148,7 @@ namespace MWServiceCheck
         public void OnConsoleServiceControll(object sender, ElapsedEventArgs args)
         {
             //Здесь будет мониторинг.
-            eventLog1.WriteEntry("Monitoring Web сервиса запущен", EventLogEntryType.Information, eventId++);
+            eventLog1.WriteEntry("Monitoring Console сервиса запущен", EventLogEntryType.Information, eventId++);
             DateTime lastModified = System.IO.File.GetLastWriteTime(_servises.ConsoleServiceParams.ServicePath);
             TimeSpan timeDiff = DateTime.Now.Subtract(lastModified);
             int dTimeDiff = int.Parse(timeDiff.ToString("mm"));
