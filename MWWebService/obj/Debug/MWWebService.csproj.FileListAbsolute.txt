@@ -1,0 +1,10 @@
+C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.exe.config
+C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.exe
+C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.pdb
+C:\MWDocs\C#\Projects\TestTask\MWWebService\obj\Debug\MWWebService.csprojAssemblyReference.cache
+C:\MWDocs\C#\Projects\TestTask\MWWebService\obj\Debug\MWWebService.MWWebService.resources
+C:\MWDocs\C#\Projects\TestTask\MWWebService\obj\Debug\MWWebService.ProjectInstaller.resources
+C:\MWDocs\C#\Projects\TestTask\MWWebService\obj\Debug\MWWebService.csproj.GenerateResource.cache
+C:\MWDocs\C#\Projects\TestTask\MWWebService\obj\Debug\MWWebService.csproj.CoreCompileInputs.cache
+C:\MWDocs\C#\Projects\TestTask\MWWebService\obj\Debug\MWWebService.exe
+C:\MWDocs\C#\Projects\TestTask\MWWebService\obj\Debug\MWWebService.pdb

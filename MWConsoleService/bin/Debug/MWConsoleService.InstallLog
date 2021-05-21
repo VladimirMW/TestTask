@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWConsoleService\bin\Debug\MWConsoleService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWConsoleService\bin\Debug\MWConsoleService.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWConsoleService\bin\Debug\MWConsoleService.exe
+Устанавливается служба MWConsoleService...
+Служба MWConsoleService успешно установлена.
+Создается исходный EventLog MWConsoleService в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWConsoleService\bin\Debug\MWConsoleService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWConsoleService\bin\Debug\MWConsoleService.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWConsoleService\bin\Debug\MWConsoleService.exe

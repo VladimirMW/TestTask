@@ -1,0 +1,34 @@
+﻿Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.exe
+Устанавливается служба MWWebService...
+Служба MWWebService успешно установлена.
+Создается исходный EventLog MWWebService в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.exe
+Выполняется удаление источника EventLog MWWebService.
+Выполняется удаление службы MWWebService из системы...
+Служба MWWebService успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.exe
+Устанавливается служба MWWebService...
+Служба MWWebService успешно установлена.
+Создается исходный EventLog MWWebService в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWWebService\bin\Debug\MWWebService.exe

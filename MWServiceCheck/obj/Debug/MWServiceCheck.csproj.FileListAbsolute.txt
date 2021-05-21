@@ -1,0 +1,10 @@
+C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe.config
+C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.pdb
+C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\obj\Debug\MWServiceCheck.csprojAssemblyReference.cache
+C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\obj\Debug\MWServiceCheck.MWServiceCheck.resources
+C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\obj\Debug\MWServiceCheck.ProjectInstaller.resources
+C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\obj\Debug\MWServiceCheck.csproj.GenerateResource.cache
+C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\obj\Debug\MWServiceCheck.csproj.CoreCompileInputs.cache
+C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\obj\Debug\MWServiceCheck.exe
+C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\obj\Debug\MWServiceCheck.pdb

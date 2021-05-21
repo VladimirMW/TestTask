@@ -1,0 +1,587 @@
+﻿Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется откат для сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Восстанавливается исходное состояние журнала событий для источника MWServiceCheck.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется откат для сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Восстанавливается исходное состояние журнала событий для источника MWServiceCheck.
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Предупреждение. Источник MWServiceCheck не зарегистрирован на локальном компьютере.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется откат для сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Восстанавливается исходное состояние журнала событий для источника MWServiceCheck.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Попытка останова службы MWServiceCheck.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется откат для сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Восстанавливается исходное состояние журнала событий для источника MWServiceCheck.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется откат для сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Восстанавливается исходное состояние журнала событий для источника MWServiceCheck.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется откат для сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Восстанавливается исходное состояние журнала событий для источника MWServiceCheck.
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Предупреждение. Источник MWServiceCheck не зарегистрирован на локальном компьютере.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Предупреждение. Источник MWServiceCheck не зарегистрирован на локальном компьютере.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Предупреждение. Источник MWServiceCheck не зарегистрирован на локальном компьютере.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется откат для сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Восстанавливается исходное состояние журнала событий для источника MWServiceCheck.
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Предупреждение. Источник MWServiceCheck не зарегистрирован на локальном компьютере.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Предупреждение. Источник MWServiceCheck не зарегистрирован на локальном компьютере.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.
+Выполняется установка сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Устанавливается служба MWServiceCheck...
+Служба MWServiceCheck успешно установлена.
+Создается исходный EventLog MWServiceCheck в журнале Application...
+Выполняется фиксация сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление сборки 'C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.InstallLog
+   assemblypath = C:\MWDocs\C#\Projects\TestTask\MWServiceCheck\bin\Debug\MWServiceCheck.exe
+Выполняется удаление источника EventLog MWServiceCheck.
+Выполняется удаление службы MWServiceCheck из системы...
+Служба MWServiceCheck успешно удалена из системы.

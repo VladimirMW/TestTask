@@ -1,0 +1,9 @@
+C:\MWDocs\C#\Projects\TestTask\MWConsoleService\bin\Debug\MWConsoleService.exe.config
+C:\MWDocs\C#\Projects\TestTask\MWConsoleService\bin\Debug\MWConsoleService.exe
+C:\MWDocs\C#\Projects\TestTask\MWConsoleService\bin\Debug\MWConsoleService.pdb
+C:\MWDocs\C#\Projects\TestTask\MWConsoleService\obj\Debug\MWConsoleService.MWConsoleService.resources
+C:\MWDocs\C#\Projects\TestTask\MWConsoleService\obj\Debug\MWConsoleService.ProjectInstaller.resources
+C:\MWDocs\C#\Projects\TestTask\MWConsoleService\obj\Debug\MWConsoleService.csproj.GenerateResource.cache
+C:\MWDocs\C#\Projects\TestTask\MWConsoleService\obj\Debug\MWConsoleService.csproj.CoreCompileInputs.cache
+C:\MWDocs\C#\Projects\TestTask\MWConsoleService\obj\Debug\MWConsoleService.exe
+C:\MWDocs\C#\Projects\TestTask\MWConsoleService\obj\Debug\MWConsoleService.pdb

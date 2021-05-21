@@ -9,11 +9,12 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 using System.Xml.Serialization;
+using System.ServiceProcess;
 
 namespace SetParams
-{    
+{
     public partial class FormServiceParams : Form
-    {  
+    {
         public static Services _servises = new Services();
 
         public FormServiceParams()
@@ -26,7 +27,7 @@ namespace SetParams
         public static void InitializeServiceParams()
         {
             string sFilePath = "C:\\\\Temp\\Settings.xml";
-            if(File.Exists(sFilePath))
+            if (File.Exists(sFilePath))
             {
                 // получаем поток, и десериализуем обьект
                 XmlSerializer xmlFormater = new XmlSerializer(typeof(Services));
@@ -66,6 +67,17 @@ namespace SetParams
             textBoxServicePath.Text = _servises.WEBserviceParams.ServicePath;
         }
 
+        public void ServiceRestart()
+        {
+            TimeSpan timeout = TimeSpan.FromMilliseconds(10000); //Задержка на ожидание сервиса
+            ServiceController service = new ServiceController("MWServiceCheck");
+            service.Stop();
+            service.WaitForStatus(ServiceControllerStatus.Stopped, timeout);
+
+            service.Start();
+            service.WaitForStatus(ServiceControllerStatus.Running, timeout);
+        }
+
         //Разрешаем ввод только символов textBoxAttemptsQuantity
         private void textBoxAttemptsQuantity_KeyPress(object sender, KeyPressEventArgs e)
         {
@@ -95,14 +107,16 @@ namespace SetParams
         private void ButtonOk_Click(object sender, EventArgs e)
         {
             saveParamsFromForm();
-            //Добавить перезапуск сервиса
+            //Перезапуск сервиса
+            ServiceRestart();
             this.Close();
         }
 
         private void buttonSave_Click(object sender, EventArgs e)
         {
             saveParamsFromForm();
-            //Добавить перезапуск сервиса
+            //Перезапуск сервиса
+            ServiceRestart();
         }
 
         private void buttonCancel_Click(object sender, EventArgs e)
